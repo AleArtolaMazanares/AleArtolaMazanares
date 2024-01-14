@@ -7,4 +7,4 @@
    
 </div>
 
- ![Static Badge](https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin)
+ ![https://www.youtube.com/watch?v=qw3nRdcpZHw](https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin)
