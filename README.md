@@ -10,6 +10,9 @@
     <a href="https://www.linkedin.com/in/alejandro-artola-99507528b/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin" alt="">
     </a>
+    <a href="https://app.netlify.com/teams/aleartolamazanares/overview" target="_blank">
+        <img src="https://img.shields.io/badge/netlify-Alejandro-00C7B7?style=for-the-badge&logo=netlify" alt="">
+    </a>
 </div>
 
 
