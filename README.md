@@ -22,6 +22,7 @@
 -📱 **+506 8635-5020**
 
 <div id="left" >
+    <h1>🛠️lenguajes and tools</h1>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40px" height="40px">
 </div>
 
