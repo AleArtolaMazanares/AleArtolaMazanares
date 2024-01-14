@@ -43,7 +43,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40px" height="40px">
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AleArtolaManzanares&theme=cobalt2&locale=es" alt="GitHub Streak" /></a>
+### 📉My status:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleArtolaManzanares&theme=cobalt2&locale=es)](https://git.io/streak-stats)
 
 
 
