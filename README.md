@@ -24,18 +24,23 @@
 
 <div id="left" >
     <h1>🛠️lenguajes and tools</h1>
-    <br>
-    <h3>Front End Developer</h3>
+    <h3>Front End Developer:</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Css3" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40px" height="40px">
    <br>
-    <h3>Backend Developer</h3>
+    <h3>Backend Developer:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="Mysql" width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="40px" height="40px">
+    <h3>other things:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS" width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40px" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40px" height="40px">
 </div>
 
 
