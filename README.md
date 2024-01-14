@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/alejandro-artola-99507528b/" target="_blank">
-        ![hola](https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin)
+        <img src="https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin" alt="">
     </a>
 </div>
 
