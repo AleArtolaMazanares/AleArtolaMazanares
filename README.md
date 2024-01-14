@@ -4,7 +4,13 @@
     <h3 align="center">seeking a challenging and fast-paced role where i can leverage my 
         skills experience to make a significant impact. excited to contribute to an 
         organization that values continuous learning and growth</h3>
-   
 </div>
 
- ![hola](https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin)
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/alejandro-artola-99507528b/" target="_blank">
+        ![hola](https://img.shields.io/badge/linkedin-Alejandro-0A66C2?style=for-the-badge&logo=linkedin)
+    </a>
+</div>
+
+
+
