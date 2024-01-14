@@ -4,4 +4,6 @@
     <h3 align="center">seeking a challenging and fast-paced role where i can leverage my 
         skills experience to make a significant impact. excited to contribute to an 
         organization that values continuous learning and growth</h3>
+
+    ![alt text](https://img.shields.io/badge/linkedin-text-0A66C2?style=for-the-badge&logo=linkedin)
 </div>
