@@ -44,8 +44,7 @@
 </div>
 
 ### 📉My status:
-[![GitHub Streak](https://streak-stats.demolab.com?user=AleArtolaManzanares&theme=cobalt2&locale=es)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
