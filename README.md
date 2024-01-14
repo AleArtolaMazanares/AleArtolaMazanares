@@ -45,7 +45,9 @@
 
 ### 📉My status:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AleArtolaManzanares&theme=cobalt2&locale=es)](https://git.io/streak-stats)
+
+<img src="https://streak-stats.demolab.com?user=AleArtolaManzanares&theme=cobalt2&locale=es" alt="">
+
 
 
 
