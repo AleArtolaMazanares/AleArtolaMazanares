@@ -36,6 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="Rails" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="Mysql" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" width="40px" height="40px">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/node-original.svg" alt="Node" width="40px" height="40px">
     <h3>other things:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" alt="rspec" width="40px" height="40px">
