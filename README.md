@@ -1,5 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">I am an amateur programmer eager to continue learning. Every day presents an opportunity to discover new concepts and challenges, and I am committed to making the most of this experience. I am always open to new ideas and willing to put in the effort to achieve my goals in this exciting field. I am eager to continue learning and growing as a programmer!</h3>
 
