@@ -19,7 +19,7 @@
 
 -📩 **aleartolamazanares@gmail.com**
 <br/>
--📱 **+506 8635-5020**
+-📱 **+506 6232-5828**
 
 
 <div id="left" >
